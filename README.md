@@ -99,7 +99,7 @@ weather-app/
 Add this to package.json:
 
 ```bash
-"homepage": "https://mahmudurlimon.github.io/weather-app"
+"homepage": "[your-project-page]"
 ```
 
 Deploy with:
