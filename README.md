@@ -1,27 +1,16 @@
-Published at:
-
-https://mahmudurlimon.github.io/weather-app/
-
 🌦️ Weather App
 
 A simple and elegant React-based Weather Application that allows users to search for real-time weather data for any city using the OpenWeatherMap API.
 Live Demo 👉 https://mahmudurlimon.github.io/weather-app/
 
 🚀 Features
-
-🌍 Search weather by city name
-
-🌡️ Displays temperature, humidity, wind speed & real-time weather conditions
-
-🎨 Clean UI with background image & smooth layout
-
-⚡ Built with React + Axios
-
-📱 Responsive design
-
-🛠️ Technologies Used
-
-React.js
+  -> 🌍 Search weather by city name
+  -> 🌡️ Displays temperature, humidity, wind speed & real-time weather conditions
+  -> 🎨 Clean UI with background image & smooth layout
+  -> ⚡ Built with React + Axios
+  -> 📱 Responsive design
+  -> 🛠️ Technologies Used
+        React.js
 
 Axios
 
