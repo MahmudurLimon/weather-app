@@ -1,7 +1,3 @@
-Published at:
-
-https://mahmudurlimon.github.io/weather-app/
-
 🌦️ Weather App
 
 A simple and elegant React-based Weather Application that allows users to search for real-time weather data for any city using the OpenWeatherMap API.
@@ -28,13 +24,6 @@ Axios
 OpenWeatherMap API
 
 CSS (Custom Styling)
-
-📸 Screenshot
-
-(You can add an image here — optional)
-Example:
-
-![Weather App Screenshot](./assets/screenshot.png)
 
 ⚙️ How It Works
 
