@@ -47,3 +47,67 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/mahmudurlimon/weather-app.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm start
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+## 🔑 API Key Setup
+
+Inside App.js, replace:
+
+```bash
+const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&units=imperial&appid=YOUR_API_KEY`
+```
+
+Get your free API key from:
+https://openweathermap.org/api
+
+## 📁 Project Structure
+
+```bash
+weather-app/
+│
+├── public/
+├── src/
+│   ├── assets/
+│   │   └── weather.jpg
+│   ├── App.js
+│   ├── index.js
+│   └── index.css
+│
+└── README.md
+```
+
+## 🌐 Deployment (GitHub Pages)
+
+Add this to package.json:
+
+```bash
+"homepage": "https://mahmudurlimon.github.io/weather-app"
+```
+
+Deploy with:
+
+```bash
+npm run build
+npm run deploy
+```
+
+## 🏷️ License
+This project is open-source under the MIT License.
